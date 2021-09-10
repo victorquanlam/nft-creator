@@ -1,0 +1,19 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1.png",
+    "tokenId": 1,
+    "name": "ADD_PROJECT_NAME_HERE 1",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Circle",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Square",
+            "value": "Blue"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "Background": "Orange",
+        "Circle": "Green",
+        "Square": "Orange",
+        "tokenId": 0
+    },
+    {
+        "Background": "Yellow",
+        "Circle": "Orange",
+        "Square": "Blue",
+        "tokenId": 1
+    },
+    {
+        "Background": "Yellow",
+        "Circle": "Yellow",
+        "Square": "Orange",
+        "tokenId": 2
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Green",
+        "Square": "Green",
+        "tokenId": 3
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Green",
+        "Square": "Green",
+        "tokenId": 4
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Red",
+        "Square": "Yellow",
+        "tokenId": 5
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Orange",
+        "Square": "Orange",
+        "tokenId": 6
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Green",
+        "Square": "Blue",
+        "tokenId": 7
+    },
+    {
+        "Background": "Yellow",
+        "Circle": "Yellow",
+        "Square": "Green",
+        "tokenId": 8
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Blue",
+        "Square": "Green",
+        "tokenId": 9
+    },
+    {
+        "Background": "Purple",
+        "Circle": "Blue",
+        "Square": "Orange",
+        "tokenId": 10
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Green",
+        "Square": "Orange",
+        "tokenId": 11
+    },
+    {
+        "Background": "Purple",
+        "Circle": "Green",
+        "Square": "Green",
+        "tokenId": 12
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Green",
+        "Square": "Blue",
+        "tokenId": 13
+    },
+    {
+        "Background": "Purple",
+        "Circle": "Green",
+        "Square": "Blue",
+        "tokenId": 14
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Blue",
+        "Square": "Blue",
+        "tokenId": 15
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Orange",
+        "Square": "Blue",
+        "tokenId": 16
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Red",
+        "Square": "Blue",
+        "tokenId": 17
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Orange",
+        "Square": "Green",
+        "tokenId": 18
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Yellow",
+        "Square": "Blue",
+        "tokenId": 19
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Blue",
+        "Square": "Yellow",
+        "tokenId": 20
+    },
+    {
+        "Background": "Purple",
+        "Circle": "Blue",
+        "Square": "Green",
+        "tokenId": 21
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Blue",
+        "Square": "Green",
+        "tokenId": 22
+    },
+    {
+        "Background": "Purple",
+        "Circle": "Green",
+        "Square": "Red",
+        "tokenId": 23
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Blue",
+        "Square": "Blue",
+        "tokenId": 24
+    },
+    {
+        "Background": "Yellow",
+        "Circle": "Green",
+        "Square": "Green",
+        "tokenId": 25
+    },
+    {
+        "Background": "Orange",
+        "Circle": "Red",
+        "Square": "Red",
+        "tokenId": 26
+    },
+    {
+        "Background": "Red",
+        "Circle": "Green",
+        "Square": "Red",
+        "tokenId": 27
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Orange",
+        "Square": "Orange",
+        "tokenId": 28
+    },
+    {
+        "Background": "Blue",
+        "Circle": "Blue",
+        "Square": "Orange",
+        "tokenId": 29
+    }
+]
